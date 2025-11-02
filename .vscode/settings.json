@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "err.h": "c",
+        "stddef.h": "c",
+        "random": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "string_view_mut.h": "c",
+        "deque": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "util.h": "c",
+        "cstdint": "c",
+        "stdio.h": "c"
+    }
+}
